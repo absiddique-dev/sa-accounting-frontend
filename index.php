@@ -1,5 +1,6 @@
 <?php
-include('./layout/header.php')
+include('./layout/header.php');
+include('./includes/connection.php');
 ?>
 
 <!--===== WELCOME STARTS=======-->
@@ -167,160 +168,34 @@ include('./layout/header.php')
       </div>
     </div>
     <div class="row">
-      <div
-        class="col-lg-4 col-md-6"
-        data-aos="fade-down"
-        data-aos-duration="1000">
-        <div class="service-after-before">
-          <div class="service2-icon">
-            <img src="assets/images/icons/icon2.svg" alt="" />
-          </div>
 
-          <a href="/">
-            <h1
-              class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
-              Strategy Consulting
-            </h1>
-          </a>
-          <p class="font-outfit font-16 lineh-26 weight-400 color-15">
-            Consultants analyze current operations and identify areas for
-            improvement in efficiency, productivity, and cost reduction.
-          </p>
-        </div>
-      </div>
-
-      <!-- <div
-        class="col-lg-4 col-md-6"
-        data-aos="fade-down"
-        data-aos-duration="1200">
-        <div class="service-after-before">
-          <div class="service2-icon">
-            <img src="assets/images/icons/icon1.svg" alt="" />
-          </div>
-
-          <a href="servicemiddle.html">
-            <h1
-              class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
-              Strategy Consulting
-            </h1>
-          </a>
-          <p class="font-outfit font-16 lineh-26 weight-400 color-15">
-            Consultants analyze current operations and identify areas for
-            improvement in efficiency, productivity, and cost reduction.
-          </p>
-          <a
-            href="servicemiddle.html"
-            class="font-16 font-outfit weight-700 color-17 lineh-26 text-uppercase margin-t32 d-inline-block learn-more">LEARN MORE
-            <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-        </div>
-      </div>
-
-      <div
-        class="col-lg-4 col-md-6"
-        data-aos="fade-down"
-        data-aos-duration="1400">
-        <div class="service-after-before">
-          <div class="service2-icon">
-            <img src="assets/images/icons/icon3.svg" alt="" />
-          </div>
-
-          <a href="servicemiddle.html">
-            <h1
-              class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
-              Marketing & Sales
-            </h1>
-          </a>
-          <p class="font-outfit font-16 lineh-26 weight-400 color-15">
-            Consultants analyze current operations and identify areas for
-            improvement in efficiency, productivity, and cost reduction.
-          </p>
-          <a
-            href="servicemiddle.html"
-            class="font-16 font-outfit weight-700 color-17 lineh-26 text-uppercase margin-t32 d-inline-block learn-more">LEARN MORE
-            <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-        </div>
-      </div>
-
-      <div
-        class="col-lg-4 col-md-6"
-        data-aos="fade-up"
-        data-aos-duration="1200"
-        data-aos-easing="linear">
-        <div class="service-after-before">
-          <div class="service2-icon">
-            <img src="assets/images/icons/icon4.png" alt="" />
-          </div>
-
-          <a href="servicemiddle.html">
-            <h1
-              class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
-              IT Consulting
-            </h1>
-          </a>
-          <p class="font-outfit font-16 lineh-26 weight-400 color-15">
-            Consultants analyze current operations and identify areas for
-            improvement in efficiency, productivity, and cost reduction.
-          </p>
-          <a
-            href="servicemiddle.html"
-            class="font-16 font-outfit weight-700 color-17 lineh-26 text-uppercase margin-t32 d-inline-block learn-more">LEARN MORE
-            <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6">
+      <?php
+      $query = mysqli_query($conn, "SELECT * FROM services");
+      while ($data = mysqli_fetch_assoc($query)) {
+      ?>
         <div
-          class="service-after-before"
-          data-aos="fade-up"
-          data-aos-duration="1400"
-          data-aos-easing="linear">
-          <div class="service2-icon">
-            <img src="assets/images/icons/icon5.png" alt="" />
+          class="col-lg-4 col-md-6"
+          data-aos="fade-down"
+          data-aos-duration="1000">
+
+          <div class="service-after-before border rounded">
+            <div class="service2-icon">
+              <img src="assets/images/icons/icon2.svg" alt="" />
+            </div>
+            <a href="/">
+              <h1
+                class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
+                <?= $data['name'] ?>
+              </h1>
+            </a>
+            <p class="font-outfit font-16 lineh-26 weight-400 color-15">
+              <?= $data['description'] ?>
+            </p>
           </div>
-
-          <a href="servicemiddle.html">
-            <h1
-              class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
-              Change Managment
-            </h1>
-          </a>
-          <p class="font-outfit font-16 lineh-26 weight-400 color-15">
-            Consultants analyze current operations and identify areas for
-            improvement in efficiency, productivity, and cost reduction.
-          </p>
-          <a
-            href="servicemiddle.html"
-            class="font-16 font-outfit weight-700 color-17 lineh-26 text-uppercase margin-t32 d-inline-block learn-more">LEARN MORE
-            <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
         </div>
-      </div>
-
-      <div
-        class="col-lg-4 col-md-6"
-        data-aos="fade-up"
-        data-aos-duration="1600"
-        data-aos-easing="linear">
-        <div class="service-after-before">
-          <div class="service2-icon">
-            <img src="assets/images/icons/icon6.png" alt="" />
-          </div>
-
-          <a href="servicemiddle.html">
-            <h1
-              class="font-outfit font-22 weight-600 lineh-22 color-17 margin-b">
-              Process Improvement
-            </h1>
-          </a>
-          <p class="font-outfit font-16 lineh-26 weight-400 color-15">
-            Consultants analyze current operations and identify areas for
-            improvement in efficiency, productivity, and cost reduction.
-          </p>
-          <a
-            href="servicemiddle.html"
-            class="font-16 font-outfit weight-700 color-17 lineh-26 text-uppercase margin-t32 d-inline-block learn-more">LEARN MORE
-            <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-        </div>
-      </div> -->
+      <?php
+      }
+      ?>
     </div>
     <div class="row">
       <div
@@ -329,7 +204,7 @@ include('./layout/header.php')
         data-aos-duration="1200">
         <div class="theme-btn4 d-inline-block margin-left service-center">
           <a
-            href="servicev1.html"
+            href="/"
             class="theme-btn5 font-outfit font-16 weight-700 margin-t32">view More services
             <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
         </div>
@@ -2136,7 +2011,7 @@ include('./layout/header.php')
                     </div>
                   </div>
 
-                  <div class="col-lg-12">
+                  <!-- <div class="col-lg-12">
                     <div class="first-input">
                       <div class="first-name-input">
                         <select
@@ -2154,7 +2029,7 @@ include('./layout/header.php')
                         </select>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                   <div class="col-lg-12">
                     <div class="textarea">
                       <textarea
@@ -2237,7 +2112,7 @@ include('./layout/header.php')
                   </h1>
                   <p
                     class="font-outfit font-16 lineh-26 color-17 weight-400">
-                    <a href="mailto:info@taxvice.com" class="color-17">info@taxvice.com</a>
+                    <a href="mailto:info@taxvice.com" class="color-17">info@saaccounting.com</a>
                   </p>
                 </div>
               </div>

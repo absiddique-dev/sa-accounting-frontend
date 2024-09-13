@@ -7,7 +7,11 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="footer-logo2">
-                                <img src="assets/images/logo/logo4.png" alt="" />
+                                <div class="site-logo">
+                                    <a href="/">
+                                        <img src="assets/images/logo/logo.png" alt="" class="img-fluid" style="width: 100px; height: auto;" />
+                                    </a>
+                                </div>
                                 <p
                                     class="font-16 lineh-26 color weight-400 font-outfit margin-b24 margin-t">
                                     Include any additional information that may <br />
@@ -41,36 +45,18 @@
                                 </h1>
                                 <div class="servicefooter-list">
                                     <ul>
-                                        <li>
-                                            <a
-                                                href="#"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400">Strategy Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="#"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Strategy & Planning</a>
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="#"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Marketing & Sales</a>
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="#"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">IT Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="#"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Change Managment</a>
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="#"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Process Improvement</a>
-                                        </li>
+                                        <?php
+                                        $query = mysqli_query($conn, "SELECT id, name FROM services LIMIT 6");
+                                        while ($data = mysqli_fetch_assoc($query)) {
+                                        ?>
+                                            <li class="mb-2">
+                                                <a
+                                                    href="#"
+                                                    class="font-outfit font-16 color-21 lineh-16 weight-400"><?= $data['name'] ?></a>
+                                            </li>
+                                        <?php
+                                        }
+                                        ?>
                                     </ul>
                                 </div>
                             </div>
@@ -129,14 +115,13 @@
                                     <img src="assets/images/icons/email4.svg" alt="" />
                                     <a
                                         href="mailto:info@taxvice.com"
-                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">info@taxvice.com</a>
+                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">info@saaccounting.com</a>
                                 </div>
                                 <div class="email4 margin-t">
                                     <img src="assets/images/icons/location3.svg" alt="" />
                                     <a
                                         href="mailto:info@taxvice.com"
-                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">8708 Technology Forest Pl Suite 125 -G, The Woodlands,
-                                        TX 77381</a>
+                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">Kharupetia, Darrang Assam</a>
                                 </div>
                                 <div class="email4 margin-t">
                                     <img src="assets/images/icons/phone5.svg" alt="" />
@@ -157,8 +142,9 @@
             <div class="col-lg-12 text-center">
                 <div class="copyright1">
                     <p class="font-outfit font-16 lineh-26 weight-400">
-                        © 2023 Business Consulting Consalt. All Rights Reserved Designed
-                        By Fleexstudio
+                        © 2024 SA Accounting | All Rights Reserved
+                        <br>
+                        Designed & Develop By <a href="http://penprogrammer.com" target="_blank" class="font-bold" rel="noopener noreferrer">Pen Programmer Team</a>
                     </p>
                 </div>
             </div>
