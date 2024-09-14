@@ -13,23 +13,20 @@ include('./includes/connection.php');
           data-aos="fade-right"
           data-aos-duration="1000">
           <span
-            class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b24 d-inline-block">Maximize Your Potential with Expert Consultation</span>
-          <h1
-            class="font-outfit font-56 weight-600 lineh-64 color-17 margin-b18">
-            Consulting driving growth and <span class="succes">grow</span><br />
-            for your business.
+            class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b24 d-inline-block">Maximize Your Financial Growth with Expert Accounting & Tax Solutions</span>
+          <h1 class="font-outfit font-56 weight-600 lineh-64 color-17 margin-b18">
+            Expert Accounting, Consultation to Drive <span class="succes">Growth</span> and Success.
           </h1>
+
           <p class="font-16 lineh-26 color-17 weight-400 font-outfit">
-            Our team brings years of experience across various industries,
-            fallowing us to offer insights and strategies that are tailored
-            to your specific business needs to your business success.
+            Our team brings years of experience across diverse industries, allowing us to deliver customized strategies and insights designed to meet your unique financial needs and optimize your business's financial health.
           </p>
           <div
             class="theme-btn4 margin-t32 d-inline-block margn-left"
             data-aos="fade-up"
             data-aos-duration="1200">
             <a
-              href="contact2.html"
+              href="/"
               class="theme-btn5 font-outfit font-16 weight-700">Schedule a Consultation
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
@@ -41,7 +38,7 @@ include('./includes/connection.php');
           <div class="welcome-imgs-area">
             <div class="main-img">
               <img
-                src="assets/images/sectionimg/welcome-img-2.png"
+                src="assets/images/models/image-3.jpg"
                 alt=""
                 class="main-imgs" />
               <img
@@ -81,7 +78,7 @@ include('./includes/connection.php');
             class="about2-scetion-images"
             data-aos="zoom-out"
             data-aos-duration="1200">
-            <img src="assets/images/sectionimg/about3-img.png" alt="" />
+            <img src="assets/images/models/image-1.jpg" alt="" />
           </div>
           <div class="row">
             <div
@@ -89,7 +86,7 @@ include('./includes/connection.php');
               data-aos="fade-up"
               data-aos-duration="1400">
               <div class="about-2-authr1">
-                <img src="assets/images/sectionimg/about4-img.png" alt="" />
+                <img src="assets/images/models/image-2.jpg" alt="" />
               </div>
             </div>
             <div
@@ -97,7 +94,7 @@ include('./includes/connection.php');
               data-aos="fade-up"
               data-aos-duration="1600">
               <div class="about-2-authr1">
-                <img src="assets/images/sectionimg/about5-img.png" alt="" />
+                <img src="assets/images/models/image-4.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -111,26 +108,18 @@ include('./includes/connection.php');
             class="font-outfit font-44 weight-600 lineh-52 color-17 margin-b20"
             data-aos="fade-left"
             data-aos-duration="1000">
-            Maximize your potential with expert consultation.
+            Unlock Your Business's Full Potential with us.
           </h1>
           <div
             class="pera-background"
             data-aos="fade-left"
             data-aos-duration="1200">
             <p class="font-outfit font-16 lineh-26 color-17 weight-500">
-              Ready to experience the benefits of partnering with PAE
-              Business Consulting? Schedule a free consultation with our
-              experienced team today and discover how our expertise can
-              drive growth, optimize operations, and unlock your business's
-              full potential.
+              Partner with us to experience the advantages of professional financial consultation. Schedule a free consultation today and learn how our expertise can enhance growth, streamline operations, and maximize your business's success.
             </p>
           </div>
           <p class="font-outfit font-16 lineh-26 colorp weight-400">
-            Experience: Our team brings years of experience across various
-            industries, allowing us to offer insights and strategies that
-            are tailored to your specific business needs. Results-Driven
-            Approach: We are committed to delivering tangible results and
-            measurable outcomes for our clients.
+            With years of experience across multiple industries, we provide tailored strategies and insights to meet your unique financial needs.We focus on delivering measurable results, ensuring your business achieves its financial goals.
           </p>
           <div
             class="theme-btn4 margin-t32 d-inline-block margn-left"
@@ -162,7 +151,7 @@ include('./includes/connection.php');
             class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b20 d-inline-block">Our Services</span>
           <h1
             class="font-outfit font-44 weight-600 lineh-52 color-17 margin-b20">
-            Our profession business consultant Services.
+            Our Professional Business Consulting Services.
           </h1>
         </div>
       </div>
@@ -197,7 +186,7 @@ include('./includes/connection.php');
       }
       ?>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <div
         class="col-lg-12 text-center"
         data-aos="fade-up"
@@ -209,7 +198,7 @@ include('./includes/connection.php');
             <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
   <img
     src="assets/images/elementor/elementor8.png"
@@ -227,15 +216,12 @@ include('./includes/connection.php');
             class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b20 d-inline-block">Company Progress</span>
           <h1
             class="font-outfit font-44 weight-600 lineh-52 color-17 margin-b20">
-            Company progress world record in business and strategy
-            consultant.
+            Setting New Standards in Business Strategy and Consulting.
           </h1>
           <p class="margin-b8">
-            At Taxvice Business Consulting, we specialize in helping
-            businesses achieve their full potential. Whether you're a
-            startup looking to establish a strong.
+            At SA Accounting, we are dedicated to helping businesses reach their highest potential. Whether you're a startup or an established company, our expertise in strategic planning and business consulting drives growth and success.
           </p>
-          <div class="progress7 margin-b12">
+          <!-- <div class="progress7 margin-b12">
             <div class="bussibess-plan">
               <span
                 class="font-16 font-outfit lineh-16 color-17 weight-500 international1">Business Planning</span>
@@ -256,24 +242,24 @@ include('./includes/connection.php');
             <p class="font-16 font-outfit lineh-16 color-17 weight-500">
               96%
             </p>
-          </div>
-          <div class="progress-wrap3 progress3" data-progress-percent="96">
+          </div> -->
+          <!-- <div class="progress-wrap3 progress3" data-progress-percent="96">
             <div class="progress-bar3 progress3"></div>
-          </div>
+          </div> -->
           <div
             class="theme-btn4 margin-t32 d-inline-block margn-left service-center"
             data-aos="fade-left"
             data-aos-duration="1200">
             <a
-              href="contact1.html"
-              class="theme-btn5 font-outfit font-16 weight-700 margin-b12">request a quote
+              href="#"
+              class="theme-btn5 font-outfit font-16 weight-700 margin-b12">Contact Us
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
         </div>
       </div>
       <div class="col-lg-6" data-aos="zoom-out" data-aos-duration="1000">
         <div class="company-images">
-          <img src="assets/images/sectionimg/company-img1.png" alt="" />
+          <img src="assets/images/models/image-8.jpg" alt="" />
         </div>
       </div>
     </div>
@@ -381,11 +367,10 @@ include('./includes/connection.php');
             <div class="client-main-pera">
               <h1
                 class="font-24 lineh-26 weight-600 font-outfit color-17 margin-b14">
-                <a href="servicemiddle.html" class="color-17">Understanding your goals</a>
+                <a href="servicemiddle.html" class="color-17">Identifying Your Financial Goals</a>
               </h1>
               <p class="font-outfit font-16 lineh-26 weight-400 color-22">
-                The first and most crucial step is understanding your unique
-                financial aspirations and challenges.
+                We begin by thoroughly understanding your unique financial aspirations and challenges to tailor our approach to your needs.
               </p>
             </div>
           </div>
@@ -402,11 +387,10 @@ include('./includes/connection.php');
             <div class="client-main-pera">
               <h1
                 class="font-24 lineh-26 weight-600 font-outfit color-17 margin-b14">
-                <a href="servicemiddle.html" class="color-17">Comprehensive financial analysis</a>
+                <a href="servicemiddle.html" class="color-17">In-Depth Financial Analysis</a>
               </h1>
               <p class="font-outfit font-16 lineh-26 weight-400 color-22">
-                The first and most crucial step is understanding your unique
-                financial aspirations and challenges.
+                Our detailed analysis uncovers opportunities and addresses challenges, ensuring a customized strategy for your financial success.
               </p>
             </div>
           </div>
@@ -423,11 +407,10 @@ include('./includes/connection.php');
             <div class="client-main-pera">
               <h1
                 class="font-24 lineh-26 weight-600 font-outfit color-17 margin-b14">
-                <a href="servicemiddle.html" class="color-17 ts">Success your financial goals</a>
+                <a href="servicemiddle.html" class="color-17 ts">Achieving Your Financial Success</a>
               </h1>
               <p class="font-outfit font-16 lineh-26 weight-400 color-22">
-                The first and most crucial step is understanding your unique
-                financial aspirations and challenges.
+                Our goal is to transform your financial aspirations into reality with expert strategies and dedicated support.
               </p>
             </div>
           </div>
@@ -440,30 +423,22 @@ include('./includes/connection.php');
             class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b20 d-inline-block">How it works</span>
           <h1
             class="font-outfit font-44 weight-600 lineh-52 color-17 margin-b24">
-            Summarize the key points and benefits of your works business
-            consulting.
+            Why Choose SA Accounting?
           </h1>
           <p
             class="font-outfit font-16 lineh-26 weight-400 color-17 margin-b">
-            Include any additional information that may be relevant or
-            helpful for visitors, such as FAQs, pricing options, or service
-            packages. Provide contact details, including phone numbers,
-            email addresses, or a contact form, to make it easy for visitors
-            to reach out to you with inquiries.
+            we offer tailored business consulting services designed to address your unique financial goals and challenges. Our expert team provides customized strategies, leveraging years of industry experience to deliver actionable insights and proven results. Whether you're looking to optimize your operations, plan for growth, or navigate complex financial landscapes, we're here to guide you every step of the way.
           </p>
           <p
             class="font-outfit font-16 lineh-26 weight-400 color-17 margin-b">
-            Showcase any certifications, industry affiliations, or
-            recognition you have received as a business consultant. Display
-            client logos, partnerships, or affiliations to demonstrate your
-            credibility and establish trust.
+            Our commitment to excellence is reflected in our certifications, industry affiliations, and the trust of our valued clients. We offer flexible pricing options and service packages to meet diverse needs, and our responsive team is always available to answer your questions.
           </p>
           <div
             class="theme-btn4 margin-t32 margn-left"
             data-aos="fade-right"
             data-aos-duration="1200">
             <a
-              href="contact1.html"
+              href="#consultation"
               class="theme-btn5 font-outfit font-16 weight-700">Schedule a Consultation
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
@@ -496,27 +471,20 @@ include('./includes/connection.php');
       <div class="col-lg-4">
         <div class="single-portfolio singlecase">
           <div class="portfolio-images singleportfolio">
-            <img src="assets/images/sectionimg/case-img1.png" alt="" />
+            <img src="assets/images/models/team-3.jpg" alt="" />
           </div>
           <div class="portfolio-textarea">
             <h1
               class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14">
-              <a href="casemiddle.html" class="color-17">Problem Statement</a>
+              Startup Growth
             </h1>
             <p class="font-outfit weight-400 color-17 lineh-26 font-16">
-              The landing page should clearly to the tax communicate the
-              unique value and benefits.
+              We streamlined financial operations for a growing startup.
             </p>
             <div class="portfolio-visible-textarea margin-t">
               <p class="font-outfit weight-400 color-17 lineh-26 font-16">
-                Discuss how the consultant worked with the client to
-                implement the proposed solution. To this may involve
-                outlining the steps taken.
+                Our solutions reduced inefficiencies and improved financial visibility, enabling sustained growth.
               </p>
-              <a
-                href="casemiddle.html"
-                class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE
-                <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
             </div>
           </div>
         </div>
@@ -525,27 +493,20 @@ include('./includes/connection.php');
       <div class="col-lg-4">
         <div class="single-portfolio singlecase">
           <div class="portfolio-images singleportfolio">
-            <img src="assets/images/sectionimg/case-img2.png" alt="" />
+            <img src="assets/images/models/team-2.jpg" alt="" />
           </div>
           <div class="portfolio-textarea">
             <h1
               class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14">
-              <a href="casemiddle.html" class="color-17">Business Strategy</a>
+              Tax Optimization
             </h1>
             <p class="font-outfit weight-400 color-17 lineh-26 font-16">
-              The landing page should clearly to the tax communicate the
-              unique value and benefits.
+              We refined tax strategies for a mid-sized enterprise.
             </p>
             <div class="portfolio-visible-textarea margin-t">
               <p class="font-outfit weight-400 color-17 lineh-26 font-16">
-                Discuss how the consultant worked with the client to
-                implement the proposed solution. To this may involve
-                outlining the steps taken.
+                Our strategic planning identified savings opportunities and enhanced financial stability.
               </p>
-              <a
-                href="casemiddle.html"
-                class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE
-                <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
             </div>
           </div>
         </div>
@@ -554,27 +515,20 @@ include('./includes/connection.php');
       <div class="col-lg-4">
         <div class="single-portfolio singlecase">
           <div class="portfolio-images singleportfolio">
-            <img src="assets/images/sectionimg/case-img3.png" alt="" />
+            <img src="assets/images/models/team-4.jpg" alt="" />
           </div>
           <div class="portfolio-textarea">
             <h1
               class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14">
-              <a href="casemiddle.html" class="color-17">Solutions Development</a>
+              Non-Profit Planning
             </h1>
             <p class="font-outfit weight-400 color-17 lineh-26 font-16">
-              The landing page should clearly to the tax communicate the
-              unique value and benefits.
+              We developed a comprehensive financial plan for a non-profit.
             </p>
             <div class="portfolio-visible-textarea margin-t">
               <p class="font-outfit weight-400 color-17 lineh-26 font-16">
-                Discuss how the consultant worked with the client to
-                implement the proposed solution. To this may involve
-                outlining the steps taken.
+                Our approach improved resource management and financial transparency for better mission support.
               </p>
-              <a
-                href="casemiddle.html"
-                class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE
-                <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
             </div>
           </div>
         </div>
@@ -643,17 +597,8 @@ include('./includes/connection.php');
                         </h2>
                         <p
                           class="font-outfit font-16 color-15 weight-400 lineh-26">
-                          Aut quod doloremque saepe sit deleniti
-                          consequatur. Possimus quod officiis pariatur
-                          voluptatem velit sint.
+                          Ideal for individuals and small businesses looking for basic financial and tax management services.
                         </p>
-                        <div class="theme-btn4 margin-t32 margn-left">
-                          <a
-                            href="#"
-                            class="theme-btn5 font-outfit font-16 weight-700">choose a plan
-                            <span><i
-                                class="fa-solid fa-arrow-right-long"></i></span></a>
-                        </div>
                       </div>
                     </div>
                     <div class="col-lg-8">
@@ -669,67 +614,59 @@ include('./includes/connection.php');
                                 <ul>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Planning
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Basic Financial Planning
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Next Genaration Accounting
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Standard Tax Preparation & Filing
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Financial Freedom Consulting
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Bookkeeping Services
                                     </p>
                                   </li>
-                                  <li>
+                                  <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Purposive Business Planning
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Tax Compliance Assistance
                                     </p>
                                   </li>
+
                                 </ul>
                               </div>
                             </div>
                           </div>
-
                           <div class="col-lg-6">
                             <div class="features-author-area margin-t45">
                               <div class="features-list">
                                 <ul>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Corporate Finance
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Personal Finance Consulting
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      International Business
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Income & Expense Tracking
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Finance Planning
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Quarterly Financial Reports
                                     </p>
                                   </li>
                                   <li>
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Strategy
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Essential Business Consulting
                                     </p>
                                   </li>
                                 </ul>
@@ -792,34 +729,31 @@ include('./includes/connection.php');
                                 <ul>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Planning
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Advanced Financial Planning
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Next Genaration Accounting
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Comprehensive Tax Solutions
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Financial Freedom Consulting
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Tax Audit Support
                                     </p>
                                   </li>
-                                  <li>
+                                  <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Purposive Business Planning
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Payroll and Accounting Services
                                     </p>
                                   </li>
                                 </ul>
                               </div>
+
                             </div>
                           </div>
 
@@ -829,30 +763,26 @@ include('./includes/connection.php');
                                 <ul>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Corporate Finance
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Business Tax Optimization
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      International Business
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Financial Health Assessment
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Finance Planning
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Monthly Financial Reports
                                     </p>
                                   </li>
                                   <li>
                                     <span><i class="fa-solid fa-check"></i></span>
-                                    <p
-                                      class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Strategy
+                                    <p class="font-16 font-outfit lineh-20 weight-500 color-17">
+                                      Corporate Tax Strategy Consulting
                                     </p>
                                   </li>
                                 </ul>
@@ -917,28 +847,27 @@ include('./includes/connection.php');
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Planning
+                                      Complete Financial Management
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Next Genaration Accounting
+                                      Full-Service Tax Planning & Filing
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Financial Freedom Consulting
-                                    </p>
+                                      International Tax Solutions
                                   </li>
                                   <li>
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Purposive Business Planning
+                                      Financial Compliance Consulting
                                     </p>
                                   </li>
                                 </ul>
@@ -954,28 +883,28 @@ include('./includes/connection.php');
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Corporate Finance
+                                      Custom Business Tax Strategies
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      International Business
+                                      CFO Advisory Services
                                     </p>
                                   </li>
                                   <li class="margin-b24">
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Finance Planning
+                                      Real-Time Financial Reporting
                                     </p>
                                   </li>
                                   <li>
                                     <span><i class="fa-solid fa-check"></i></span>
                                     <p
                                       class="font-16 font-outfit lineh-20 weight-500 color-17">
-                                      Business Strategy
+                                      Investment and Wealth Management Strategies
                                     </p>
                                   </li>
                                 </ul>
@@ -1359,601 +1288,6 @@ include('./includes/connection.php');
 </div>
 <!--===== PRICING PLAN END=======-->
 
-<!--===== TESTIMONIAL  STARTS=======-->
-<div class="testimonial2-scetion-area section-padding5">
-  <img
-    src="assets/images/elementor/elementor8.png"
-    alt=""
-    class="elementor-5 aniamtion-key-1" />
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12" data-aos="fade-down" data-aos-duration="800">
-        <div class="testimonial2-header text-center margin-b60">
-          <span
-            class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b20 d-inline-block">Our Clients Feedback</span>
-          <h1 class="font-outfit font-44 weight-600 lineh-52 color-17">
-            Some love words from clients
-          </h1>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12" data-aos="fade-down" data-aos-duration="1200">
-        <div class="testomonial2-carousel-area owl-carousel">
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testomonial1.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial2.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial3.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testomonial1.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial2.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial3.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial3.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial3.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="testimonial-autor-area">
-            <div class="qutio1 margin-b">
-              <img src="assets/images/icons/quito1.svg" alt="" />
-            </div>
-            <div class="star-list">
-              <ul>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color-24"><i class="fa-solid fa-star"></i></span>
-                </li>
-                <li>
-                  <span class="color33"><i class="fa-solid fa-star"></i></span>
-                </li>
-              </ul>
-            </div>
-            <p
-              class="font-outfit font-18 lineh-28 weight-400 color-17 margin-b24 margin-t">
-              “Business Consultant to legal entity filing, the marketing
-              setup, automation, on the legal bookkeeping, technology, in
-              person of an networking, online sales, permits and user
-              console consult.”
-            </p>
-            <div class="border-4 margin-b24"></div>
-            <div class="mans-author">
-              <div class="mans">
-                <img
-                  src="assets/images/sectionimg/testimonial3.png"
-                  alt="" />
-              </div>
-              <div class="names-text">
-                <h1
-                  class="font-16 font-outfit lineh-16 color-17 weight-600 margin-b11">
-                  Tina Wilkinson
-                </h1>
-                <p class="font-14 weight-400 color-15 font-outfit">
-                  CEO, Wingree Ltd
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <img
-    src="assets/images/elementor/elementor11.png"
-    alt=""
-    class="elementor-11" />
-</div>
-<!--===== TESTIMONIAL END=======-->
-
-<!--===== BLOG STRATS=======-->
-<div class="blog2-scetion-area section-padding5" id="blog">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12" data-aos="fade-down" data-aos-duration="800">
-        <div class="blog2-textarea text-center margin-b60">
-          <span
-            class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b20 d-inline-block">Our Blog</span>
-          <h1 class="font-outfit font-44 weight-600 lineh-52 color-17">
-            Our latest news & blog
-          </h1>
-        </div>
-      </div>
-    </div>
-    <div class="row align-items-center">
-      <div class="col-lg-6" data-aos="zoom-out" data-aos-duration="1000">
-        <div class="blog2-author-area">
-          <div class="blog2-images">
-            <img src="assets/images/sectionimg/blog2-img.png" alt="" />
-          </div>
-
-          <div
-            class="blog-auhtor2-text blog2-author-poition"
-            data-aos="zoom-out"
-            data-aos-duration="1400">
-            <div class="blog2-ahtuor2 blog-2ahthor">
-              <div class="blog-date-list margin-b">
-                <img src="assets/images/icons/daterange1.png" alt="" />
-                <a
-                  href="#"
-                  class="font-16 lineh-16 font-outfit weight-500 color ts">5 Nov 2023</a>
-              </div>
-              <a href="blogmiddle.html" class="ts">
-                <h1
-                  class="font-20 font-outfit color lineh-20 weight-600 margin-b ts">
-                  Organizational development and leadership consulting
-                </h1>
-              </a>
-              <p class="font-16 font-outfit lineh-26 weight-400 color ts">
-                pproach: Emphasize your client-centric approach and how you
-                tailor your consulting services to meet the specific needs
-                and goals of each client.
-              </p>
-              <a
-                href="blogmiddle.html"
-                class="font-16 font-outfit weight-700 color lineh-26 text-uppercase margin-t32 d-inline-block learn-more learn-more1 ts">LEARN MORE
-                <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div
-          class="blog-auhtor2-text margin-b30"
-          data-aos="zoom-in"
-          data-aos-duration="1200">
-          <div class="blog2-ahtuor2">
-            <div class="blog-date-list margin-b">
-              <img
-                src="assets/images/icons/daterane.png"
-                alt=""
-                class="ts" />
-              <a
-                href="#"
-                class="font-16 lineh-16 font-outfit weight-500 color-17 ts">5 Nov 2023</a>
-            </div>
-            <a href="blogmiddle.html">
-              <h1
-                class="font-20 font-outfit color-17 lineh-20 weight-600 margin-b14 ts">
-                Bussiness strategies, performance management to success
-              </h1>
-            </a>
-            <p
-              class="font-16 font-outfit lineh-26 weight-400 color-17 margin-b24 ts">
-              Share real-life case studies and success stories that
-              highlight the impact of your consulting services. Detail the
-              challenges faced by your clients sucess.
-            </p>
-            <a
-              href="blogmiddle.html"
-              class="font-16 font-outfit weight-700 color-17 ts lineh-26 text-uppercase d-inline-block learn-more">LEARN MORE
-              <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-          </div>
-        </div>
-
-        <div
-          class="blog-auhtor2-text"
-          data-aos="zoom-in"
-          data-aos-duration="1400">
-          <div class="blog2-ahtuor2">
-            <div class="blog-date-list margin-b">
-              <img
-                src="assets/images/icons/daterane.png"
-                alt=""
-                class="ts" />
-              <a
-                href="#"
-                class="font-16 lineh-16 font-outfit weight-500 color-17 ts">5 Nov 2023</a>
-            </div>
-            <a href="blogmiddle.html">
-              <h1
-                class="font-20 font-outfit color-17 lineh-20 weight-600 margin-b14 ts">
-                Organizational development and leadership consulting
-              </h1>
-            </a>
-            <p
-              class="font-16 font-outfit lineh-26 weight-400 color-17 margin-b24 ts">
-              pproach: Emphasize your client-centric approach and how you
-              tailor your consulting services to meet the specific needs and
-              goals of each client.
-            </p>
-            <a
-              href="blogmiddle.html"
-              class="font-16 font-outfit weight-700 color-17 ts lineh-26 text-uppercase d-inline-block learn-more">LEARN MORE
-              <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!--===== BLOG  END=======-->
-
 <!--===== CONTACT STARTS=======-->
 <div class="contact2-section-area section-padding5" id="contact">
   <img
@@ -1974,7 +1308,7 @@ include('./includes/connection.php');
     </div>
     <div class="col-lg-12" data-aos="fade-right" data-aos-duration="1000">
       <div class="contact2-all-contact">
-        <div class="row align-items-center">
+        <div class="row align-items-center" id="consultation">
           <div class="col-lg-6">
             <div class="contact2-maincontact">
               <h1
@@ -1987,70 +1321,39 @@ include('./includes/connection.php');
               </p>
 
               <div class="contact-from-area">
-                <div class="row">
-                  <div class="col-lg-6">
-                    <div class="first-input">
-                      <input type="text" placeholder="First Name" />
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="first-input">
-                      <input type="text" placeholder="Last Name" />
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6">
-                    <div class="first-input">
-                      <input type="number" placeholder=" Phone Number" />
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6">
-                    <div class="first-input">
-                      <input type="email" placeholder="Email Address" />
-                    </div>
-                  </div>
-
-                  <!-- <div class="col-lg-12">
-                    <div class="first-input">
-                      <div class="first-name-input">
-                        <select
-                          name="country"
-                          id="country"
-                          class="country-area nice-select6">
-                          <option value="1" data-display="Service Type">
-                            Service Type
-                          </option>
-                          <option value="">Belgium</option>
-                          <option value="">Brezil</option>
-                          <option value="">Argentina</option>
-                          <option value="">Bangladesh</option>
-                          <option value="">Germany</option>
-                        </select>
+                <form method="POST" action="">
+                  <div class="row">
+                    <div class="col-lg-12">
+                      <div class="first-input">
+                        <input type="text" placeholder="Name" name="name" required />
                       </div>
                     </div>
-                  </div> -->
-                  <div class="col-lg-12">
-                    <div class="textarea">
-                      <textarea
-                        cols="30"
-                        rows="10"
-                        placeholder="Message"></textarea>
+                    <div class="col-lg-6">
+                      <div class="first-input">
+                        <input type="number" placeholder="Phone Number" name="phone" required />
+                      </div>
+                    </div>
+                    <div class="col-lg-6">
+                      <div class="first-input">
+                        <input type="email" placeholder="Email Address" name="email" required />
+                      </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="textarea">
+                        <textarea cols="30" rows="10" placeholder="Message" name="message" required></textarea>
+                      </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="theme-btn4 margin-t32 margin-left" data-aos="fade-left" data-aos-duration="1200">
+                        <button class="theme-btn5 font-outfit font-16 weight-700">
+                          Schedule a Consultation
+                          <span><i class="fa-solid fa-arrow-right-long"></i></span>
+                        </button>
+                      </div>
                     </div>
                   </div>
-                  <div class="col-lg-12">
-                    <div
-                      class="theme-btn4 margin-t32 margn-left"
-                      data-aos="fade-left"
-                      data-aos-duration="1200">
-                      <a
-                        href="contact1.html"
-                        class="theme-btn5 font-outfit font-16 weight-700">Schedule a Consultation
-                        <span><i
-                            class="fa-solid fa-arrow-right-long"></i></span></a>
-                    </div>
-                  </div>
-                </div>
+                </form>
+
               </div>
             </div>
           </div>
@@ -2174,5 +1477,34 @@ include('./includes/connection.php');
 <!--===== CTA  END=======-->
 
 <?php
-include('./layout/footer.php')
+include('./layout/footer.php');
+
+if (isset($_POST['submit'])) {
+  $query = "SELECT * FROM enquiry_form WHERE phone = ? OR email = ?";
+  $stmt = $conn->prepare($query);
+  $stmt->bind_param("ss", $_POST['phone'], $_POST['email']);
+  $stmt->execute();
+  $result = $stmt->get_result();
+
+  if ($result->num_rows == 0) {
+    $insert_query = "INSERT INTO enquiry_form (name, phone, email, message) VALUES (?, ?, ?, ?)";
+    $insert_stmt = $conn->prepare($insert_query);
+    $insert_stmt->bind_param("ssss", $_POST['name'], $_POST['phone'], $_POST['email'], $_POST['message']);
+
+    if ($insert_stmt->execute()) {
+      $_SESSION['toast'] = ['message' => 'Enquiry submitted successfully!', 'type' => 'success'];
+?>
+      <script>
+        window.location.href()
+      </script>
+<?php
+    } else {
+      $_SESSION['toast'] = ['message' => 'Something went wrong', 'type' => 'error'];
+    }
+  } else {
+    $_SESSION['toast'] = ['message' => 'Form already submitted', 'type' => 'error'];
+  }
+  $stmt->close();
+}
+
 ?>
