@@ -9,15 +9,12 @@
                             <div class="footer-logo2">
                                 <div class="site-logo">
                                     <a href="/">
-                                        <img src="assets/images/logo/logo.png" alt="" class="img-fluid" style="width: 100px; height: auto;" />
+                                        <img src="assets/images/logo/logo.png" alt="" class="img-fluid" style="width: 100px; height: auto; filter:brightness(100)" />
                                     </a>
                                 </div>
                                 <p
                                     class="font-16 lineh-26 color weight-400 font-outfit margin-b24 margin-t">
-                                    Include any additional information that may <br />
-                                    be relevant or helpful for visitors, such as <br />
-                                    FAQs, pricing options, or service packages. <br />
-                                    Provide contact details.
+                                    Providing comprehensive financial <br> solutions to ensure seamless compliance <br> and strategic growth
                                 </p>
                                 <div class="social2-links">
                                     <ul>
@@ -72,34 +69,30 @@
                                     <ul>
                                         <li>
                                             <a
-                                                href="index.html"
+                                                href="/"
                                                 class="font-outfit font-16 color-21 lineh-16 weight-400">Home</a>
                                         </li>
                                         <li>
                                             <a
-                                                href="about.html"
+                                                href="about.php"
                                                 class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">About Us
                                             </a>
                                         </li>
                                         <li>
                                             <a
-                                                href="servicev1.html"
+                                                href="#service"
                                                 class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Our Services</a>
                                         </li>
+
                                         <li>
                                             <a
-                                                href="casestudy1.html"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Case Study</a>
+                                                href="terms-and-condition.php"
+                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Terms & Condition</a>
                                         </li>
                                         <li>
                                             <a
-                                                href="blog2.html"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Blog</a>
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="team.html"
-                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Team</a>
+                                                href="privacy-policy.php"
+                                                class="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block">Privacy Policy</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -114,20 +107,23 @@
                                 <div class="email4">
                                     <img src="assets/images/icons/email4.svg" alt="" />
                                     <a
-                                        href="mailto:info@taxvice.com"
+                                        href="mailto:info@saaccounting.com"
                                         class="font-16 lineh-24 color-21 weight-400 font-outfit">info@saaccounting.com</a>
-                                </div>
-                                <div class="email4 margin-t">
-                                    <img src="assets/images/icons/location3.svg" alt="" />
-                                    <a
-                                        href="mailto:info@taxvice.com"
-                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">Kharupetia, Darrang Assam</a>
                                 </div>
                                 <div class="email4 margin-t">
                                     <img src="assets/images/icons/phone5.svg" alt="" />
                                     <a
-                                        href="tel:123-456-7890"
-                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">123-456-7890</a>
+                                        href="tel:93959913767"
+                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">+91 8011193258 / 93959 913767</a>
+                                </div>
+                                <div class="email4 margin-t">
+                                    <img src="assets/images/icons/location3.svg" alt="" />
+                                    <a
+                                        href="https://maps.app.goo.gl/VvoN9mJHqvT2zTwb6?g_st=com.google.maps.preview.copy"
+                                        class="font-16 lineh-24 color-21 weight-400 font-outfit">
+                                        Hospital Road, sandigate <br>
+                                        Kharupetia Darrang Assam 784115
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -181,7 +177,5 @@
 <script src="assets/js/plugins/mobilemenu.js"></script>
 <script src="assets/js/main.js"></script>
 </body>
-
-<!-- Mirrored from html.fleexstudio.com/consult/single-index5.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 13 Sep 2024 05:46:37 GMT -->
 
 </html>

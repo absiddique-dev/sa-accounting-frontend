@@ -26,7 +26,7 @@ include('./includes/connection.php');
             data-aos="fade-up"
             data-aos-duration="1200">
             <a
-              href="/"
+              href="#contact"
               class="theme-btn5 font-outfit font-16 weight-700">Schedule a Consultation
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
@@ -69,7 +69,7 @@ include('./includes/connection.php');
 <!--===== WELCOME END=======-->
 
 <!--===== ABOUT STARTS=======-->
-<div class="about2-section-area section-padding5" id="about">
+<div class="about2-section-area section-padding5">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
@@ -101,7 +101,7 @@ include('./includes/connection.php');
         </div>
       </div>
       <div class="col-lg-6" data-aos="fade-left" data-aos-duration="800">
-        <div class="about-2-textarea">
+        <div class="about-2-textarea" id="about">
           <span
             class="maximum font-outfit font-16 lineh-16 color-12 weight-500 margin-b20 d-inline-block">About Us</span>
           <h1
@@ -126,7 +126,7 @@ include('./includes/connection.php');
             data-aos="fade-up"
             data-aos-duration="1400">
             <a
-              href="servicev1.html"
+              href="#service"
               class="theme-btn5 font-outfit font-16 weight-700">Explore services
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
@@ -251,7 +251,7 @@ include('./includes/connection.php');
             data-aos="fade-left"
             data-aos-duration="1200">
             <a
-              href="#"
+              href="https://api.whatsapp.com/send?phone=9395991376&text=Hello%2C%20SA%20Accounting%2C%20I%20want%20to%20connect%20with%20your%20executive"
               class="theme-btn5 font-outfit font-16 weight-700 margin-b12">Contact Us
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
@@ -438,7 +438,7 @@ include('./includes/connection.php');
             data-aos="fade-right"
             data-aos-duration="1200">
             <a
-              href="#consultation"
+              href="#contact"
               class="theme-btn5 font-outfit font-16 weight-700">Schedule a Consultation
               <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
           </div>
@@ -592,13 +592,20 @@ include('./includes/connection.php');
                         <div class="space20"></div>
                         <h2
                           class="pricing-heading font-outfit color-17 margin-b weight-700 font-44">
-                          $29<span
+                          ₹999<span
                             class="font-outfit font-20 weight-500 lineh-20 color-17">/month</span>
                         </h2>
                         <p
                           class="font-outfit font-16 color-15 weight-400 lineh-26">
-                          Ideal for individuals and small businesses looking for basic financial and tax management services.
+                          Essential financial services for individuals and small businesses. Includes tax filing, GST registration, and quarterly reports.
                         </p>
+                      </div>
+                      <div class="theme-btn4 margin-t32 margn-left">
+                        <a
+                          href="https://api.whatsapp.com/send?phone=9395991376&text=Hello%2C%20*SA%20Accounting*%0AI'm%20interested%20in%20your%20*Basic%20Plan*%20(%20%E2%82%B9999)"
+                          class="theme-btn5 font-outfit font-16 weight-700">choose a plan
+                          <span><i
+                              class="fa-solid fa-arrow-right-long"></i></span></a>
                       </div>
                     </div>
                     <div class="col-lg-8">
@@ -698,18 +705,16 @@ include('./includes/connection.php');
                         <div class="space20"></div>
                         <h2
                           class="pricing-heading font-outfit color-17 margin-b weight-700 font-44">
-                          $99<span
+                          ₹2999<span
                             class="font-outfit font-20 weight-500 lineh-20 color-17">/month</span>
                         </h2>
                         <p
                           class="font-outfit font-16 color-15 weight-400 lineh-26">
-                          Aut quod doloremque saepe sit deleniti
-                          consequatur. Possimus quod officiis pariatur
-                          voluptatem velit sint.
+                          Advanced support for growing businesses. Covers tax filing, monthly returns, and customized financial advice with priority support.
                         </p>
                         <div class="theme-btn4 margin-t32 margn-left">
                           <a
-                            href="#"
+                            href="https://api.whatsapp.com/send?phone=9395991376&text=Hello%2C%20*SA%20Accounting*%0AI'm%20interested%20in%20your%20*Pro%20Plan*%20(%20%E2%82%B92999)"
                             class="theme-btn5 font-outfit font-16 weight-700">choose a plan
                             <span><i
                                 class="fa-solid fa-arrow-right-long"></i></span></a>
@@ -814,18 +819,16 @@ include('./includes/connection.php');
                         <div class="space20"></div>
                         <h2
                           class="pricing-heading font-outfit color-17 margin-b weight-700 font-44">
-                          $49<span
+                          ₹4999<span
                             class="font-outfit font-20 weight-500 lineh-20 color-17">/month</span>
                         </h2>
                         <p
                           class="font-outfit font-16 color-15 weight-400 lineh-26">
-                          Aut quod doloremque saepe sit deleniti
-                          consequatur. Possimus quod officiis pariatur
-                          voluptatem velit sint.
+                          Comprehensive financial management for large businesses. Full tax services, business planning, audits, and dedicated expert support.
                         </p>
                         <div class="theme-btn4 margin-t32 margn-left">
                           <a
-                            href="#"
+                            href="https://api.whatsapp.com/send?phone=9395991376&text=Hello%2C%20*SA%20Accounting*%0AI'm%20interested%20in%20your%20*Premium%20Plan*%20(%20%E2%82%B94999)"
                             class="theme-btn5 font-outfit font-16 weight-700">choose a plan
                             <span><i
                                 class="fa-solid fa-arrow-right-long"></i></span></a>
@@ -1373,8 +1376,8 @@ include('./includes/connection.php');
                   </h1>
                   <p
                     class="font-outfit font-16 lineh-26 color-17 weight-400">
-                    8708 Technology Forest Pl Suite 125 -G, The <br />
-                    Woodlands, TX 77381
+                    Hospital Road, sandigate <br>
+                    Kharupetia Darrang Assam 784115
                   </p>
                 </div>
               </div>
@@ -1394,7 +1397,7 @@ include('./includes/connection.php');
                     Call or text
                   </h1>
                   <p class="font-outfit font-16 lineh-26 color weight-400">
-                    <a href="tel:123-456-7890" class="color">123-456-7890</a>
+                    <a href="tel:9395991376" class="color">+91 93959 91376</a>
                   </p>
                 </div>
               </div>
@@ -1443,9 +1446,7 @@ include('./includes/connection.php');
             Let us help your grow business
           </h1>
           <p class="font-outfit font-16 lineh-26 weight-400 color">
-            Consider adding a brief personalized message, expressing your
-            eagerness to connect with potential clients and help them
-            achieve their business goals.
+            Let us help your business grow with tailored financial solutions designed to ensure compliance and drive success. We're eager to partner with you and achieve your business goals together.
           </p>
         </div>
       </div>

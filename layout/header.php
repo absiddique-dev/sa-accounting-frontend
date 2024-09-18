@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Mirrored from html.fleexstudio.com/consult/single-index5.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 13 Sep 2024 05:45:22 GMT -->
 
 <head>
     <meta charset="UTF-8" />
@@ -29,7 +28,7 @@
     <link rel="stylesheet" href="assets/css/master.css" />
     <link rel="stylesheet" href="assets/css/plugins/responsive.css" />
     <!--=====FAV-ICoN=======-->
-    <link rel="shortcut icon" href="assets/images/logo/favicon5.png" />
+    <link rel="shortcut icon" href="assets/images/logo/logo.png" />
     <!--=====JQUERY=======-->
     <script src="assets/js/plugins/jquery-3-6-0.min.js"></script>
 </head>
@@ -40,7 +39,7 @@
         <div id="loader" class="loader loader3 bg-white">
             <div class="loader-container">
                 <div class="loader-icon">
-                    <img src="assets/images/logo/logo.png" alt="" />
+                    <img src="assets/images/logo/logo.png" alt="" style="filter: brightness(100);" />
                 </div>
             </div>
         </div>
@@ -77,7 +76,6 @@
                                 <ul>
                                     <li>
                                         <a href="#" class="font-outfit font-18 weight-500 color-1">Home</a>
-
                                     </li>
                                     <li>
                                         <a
@@ -105,12 +103,12 @@
                                             alt=""
                                             class="imgicon" />
                                         <a
-                                            href="tel:123-456-7890"
-                                            class="font-outfit font-18 lineh-18 weight-600 color-17">+91 98987 87091</a>
+                                            href="tel:8011193258"
+                                            class="font-outfit font-18 lineh-18 weight-600 color-17">+91 80111 93258</a>
                                     </div>
                                     <div class="theme-btn4">
                                         <a
-                                            href="/"
+                                            href="https://api.whatsapp.com/send?phone=9395991376&text=Hello%2C%20SA%20Accounting%2C%20I%20want%20to%20connect%20with%20your%20executive"
                                             class="theme-btn5 font-outfit font-16 weight-700">WHATSAPP
                                             <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                                     </div>
@@ -129,7 +127,7 @@
             <div class="col-12">
                 <div class="mobile-header-elements">
                     <div class="mobile-logo">
-                        <a href="index.html"><img src="assets/images/logo/logo7.png" alt="" /></a>
+                        <a href="/index.php"><img src="assets/images/logo/logo.png" alt="logo" style="width : 60px; filter: brightness(100);" class="object-fit-contain" /></a>
                     </div>
                     <div class="mobile-nav-icon dots-menu">
                         <i class="fa-solid fa-bars"></i>
@@ -142,7 +140,7 @@
     <div class="mobile-sidebar">
         <div class="logoicons-area">
             <div class="logos">
-                <img src="assets/images/logo/logo7.png" alt="" />
+                <img src="assets/images/logo/logo.png" alt="logo" style="width : 60px; filter: brightness(100);" class="object-fit-contain" />
             </div>
             <div class="menu-close">
                 <i class="fa-solid fa-xmark"></i>
@@ -151,197 +149,23 @@
         <div class="mobile-nav">
             <ul class="mobile-nav-list">
                 <li>
-                    <a href="#" class="font-outfit font-16 weight-500 color">Home </a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a
-                                href="index1.html"
-                                class="font-outfit font-16 weight-500 color">Law Consulting 01</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index7.html"
-                                class="font-outfit font-16 weight-500 color">Law Consulting 02</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index3.html"
-                                class="font-outfit font-16 weight-500 color">Tax Consulting 01</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index8.html"
-                                class="font-outfit font-16 weight-500 color">Tax Consulting 02</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index2.html"
-                                class="font-outfit font-16 weight-500 color">Business Consulting 01</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index5.html"
-                                class="font-outfit font-16 weight-500 color">Business Consulting 02</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index4.html"
-                                class="font-outfit font-16 weight-500 color">Finance Consulting 01</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index6.html"
-                                class="font-outfit font-16 weight-500 color">Finance Consulting 02</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index9.html"
-                                class="font-outfit font-16 weight-500 color">Insurance Consulting 01</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index10.html"
-                                class="font-outfit font-16 weight-500 color">Insurance Consulting 02</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index11.html"
-                                class="font-outfit font-16 weight-500 color">Visa Consulting 01</a>
-                        </li>
-                        <li>
-                            <a
-                                href="index12.html"
-                                class="font-outfit font-16 weight-500 color">Visa Consulting 02</a>
-                        </li>
-                    </ul>
+                    <a href="#" class="font-outfit font-16 weight-500 color">Home</a>
                 </li>
-
-                <li>
-                    <a href="about.html" class="font-outfit font-18 weight-600 color">About</a>
-                </li>
-
-                <li>
-                    <a href="#" class="font-outfit font-16 weight-500 color">Our Services</a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a
-                                href="servicev1.html"
-                                class="font-outfit font-16 weight-500 color-1">Servics V1</a>
-                        </li>
-                        <li>
-                            <a
-                                href="servicev2.html"
-                                class="font-outfit font-16 weight-500 color">Servics V2</a>
-                        </li>
-                        <li>
-                            <a
-                                href="serviceleft.html"
-                                class="font-outfit font-16 weight-500 color">
-                                Service Details Left</a>
-                        </li>
-                        <li>
-                            <a
-                                href="serviceright.html"
-                                class="font-outfit font-16 weight-500 color">Service Details Right</a>
-                        </li>
-                        <li>
-                            <a
-                                href="servicemiddle.html"
-                                class="font-outfit font-16 weight-500 color">
-                                Single Service</a>
-                        </li>
-                    </ul>
-                </li>
-
                 <li>
                     <a
-                        href="testimonials.html"
-                        class="font-outfit font-16 weight-500 color">Case Studies
+                        href="#service"
+                        class="font-outfit font-18 weight-500 color-1">Our Services</a>
+                </li>
+                <li>
+                    <a
+                        href="#about"
+                        class="font-outfit font-18 weight-500 color-1">About Us</a>
+                </li>
+                <li>
+                    <a
+                        href="#contact"
+                        class="font-outfit font-18 weight-500 color-1">Contact Us
                     </a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a
-                                href="casestudy1.html"
-                                class="font-outfit font-16 weight-500 color-1">Case Study</a>
-                        </li>
-                        <li>
-                            <a
-                                href="caseleft.html"
-                                class="font-outfit font-16 weight-500 color">Case Details Left</a>
-                        </li>
-                        <li>
-                            <a
-                                href="caseright.html"
-                                class="font-outfit font-16 weight-500 color">Case Details Right</a>
-                        </li>
-                        <li>
-                            <a
-                                href="casemiddle.html"
-                                class="font-outfit font-16 weight-500 color">Case Single
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="#" class="font-outfit font-16 weight-500 color">
-                        Our Blog</a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a
-                                href="blog2.html"
-                                class="font-outfit font-16 weight-500 color-1">Blog One</a>
-                        </li>
-                        <li>
-                            <a
-                                href="blog3.html"
-                                class="font-outfit font-16 weight-500 color">Blog Two</a>
-                        </li>
-                        <li>
-                            <a
-                                href="blogleft.html"
-                                class="font-outfit font-16 weight-500 color">Blog Details Left</a>
-                        </li>
-                        <li>
-                            <a
-                                href="blogright.html"
-                                class="font-outfit font-16 weight-500 color">BLog Details Right</a>
-                        </li>
-                        <li>
-                            <a
-                                href="blogmiddle.html"
-                                class="font-outfit font-16 weight-500 color">
-                                Single Blog</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="#" class="font-outfit font-16 weight-00 color">Pages</a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a
-                                href="testimonials.html"
-                                class="font-outfit font-16 weight-500 color">Testimonials
-                            </a>
-                        </li>
-                        <li>
-                            <a href="team.html" class="font-outfit font-16 weight-500 color">Our Team</a>
-                        </li>
-                        <li>
-                            <a
-                                href="team-details.html"
-                                class="font-outfit font-16 weight-500 color">Single Team</a>
-                        </li>
-                        <li>
-                            <a
-                                href="contact1.html"
-                                class="font-outfit font-16 weight-500 color">Contact 1</a>
-                        </li>
-                        <li>
-                            <a
-                                href="contact2.html"
-                                class="font-outfit font-16 weight-500 color">Contact 2</a>
-                        </li>
-                    </ul>
                 </li>
             </ul>
             <div class="allmobilesection">
@@ -360,8 +184,8 @@
                             </div>
                             <div class="contact-info-text">
                                 <a
-                                    href="tel:+3(924)4596512"
-                                    class="font-outfit font-16 lineh-26 weight-500 color-21">+3(924)4596512</a>
+                                    href="tel:+91 8011193258"
+                                    class="font-outfit font-16 lineh-26 weight-500 color-21">+91 80111 93258</a>
                             </div>
                         </div>
 
@@ -372,7 +196,7 @@
                             <div class="contact-info-text">
                                 <a
                                     href="mailto:info@example.com"
-                                    class="font-outfit font-16 lineh-26 weight-500 color-21">info@example.com</a>
+                                    class="font-outfit font-16 lineh-26 weight-500 color-21">info@saaccounting.com</a>
                             </div>
                         </div>
 
@@ -388,9 +212,11 @@
                                 </div>
                                 <div class="contact-info-text">
                                     <a
-                                        href="mailto:info@example.com"
-                                        class="font-outfit font-16 lineh-26 weight-500 color-21">55 East Birchwood Ave.Brooklyn, <br />
-                                        New York 11201,United States</a>
+                                        href="https://maps.app.goo.gl/VvoN9mJHqvT2zTwb6?g_st=com.google.maps.preview.copy"
+                                        class="font-outfit font-16 lineh-26 weight-500 color-21">SA ACCOUNTING SOLUTIONS <br> Hospital Road, sandigate,
+                                        <br />
+                                        Kharupetia Darrang Assam 784115
+                                    </a>
                                 </div>
                             </div>
                         </div>
